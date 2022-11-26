@@ -1,0 +1,1 @@
+[Maven官宣：干掉Maven和Gradle！推出更强更快更牛逼的新一代构建工具，炸裂](https://developer.aliyun.com/article/863395?spm=a2c6h.13262185.profile.51.22a26efcHEVf3f)

@@ -1,0 +1,29 @@
+{
+  "version": "0.6.0",
+  "data": {
+    "boardConfigs": [
+      {
+        "tag": "tagBoardConfig",
+        "data": {
+          "columns": [],
+          "showColumnTags": true,
+          "completedCount": 10,
+          "filters": [
+            {
+              "tag": "fileFilter",
+              "data": "Day Planners/Day Planner-20221119.md"
+            }
+          ],
+          "filterPolarity": "Allow",
+          "showFilteredTags": true,
+          "includeOthers": false,
+          "includeUntagged": false,
+          "title": "test"
+        }
+      }
+    ],
+    "globalSettings": {
+      "taskCompletionFormat": "ObsidianCardBoard"
+    }
+  }
+}

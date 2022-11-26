@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "6635e2724714e45c",
+    "type": "split",
+    "children": [
+      {
+        "id": "098a1e133212ff77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "914db4823c766c38",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@00-.ATT.(附件)/Obsidian 帮助文档.md",
+                "mode": "source",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "1ef429584a6b3d0b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "技术学习知识库索引.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bafa54753fd141c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "471eeabffd5e4adb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8903251c01f3f9fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7537cd942ae5cb4f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "数据",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a3472a9857dab06",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "8e5f3f02225857b2",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 356.5
+  },
+  "right": {
+    "id": "8c9a02dce5fbd47e",
+    "type": "split",
+    "children": [
+      {
+        "id": "27ea77d69ddbcd63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e02189bba1cee86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "技术学习知识库索引.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "78104d5cd44e7f1c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "技术学习知识库索引.md"
+              }
+            }
+          },
+          {
+            "id": "7c80d7ae22eaf0af",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "技术学习知识库索引.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6832478736638a10",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "d1f8adaac68b2033",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6338e9a3cd4a41a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 282.5,
+    "collapsed": true
+  },
+  "active": "1ef429584a6b3d0b",
+  "lastOpenFiles": [
+    "@12-分布式/@12-14-分布式网关/003-Kong/Kong.README.md",
+    "@22-关于职业/Java工程师如何避免内卷 - 知乎.md",
+    "@06-开源软件/开源软件.md",
+    "技术学习知识库索引.md",
+    "@00-开源软件/开源软件.md",
+    "@12-分布式/@12-14-分布式网关/分布式网关.README.md",
+    "@12-分布式/@12-14-分布式网关/004-Shenyu(Soul)/shenyu.README.md",
+    "@12-分布式/@12-14-分布式网关/002-SpringGateway/SpringGateway.README.md",
+    "@12-分布式/@12-04-分布式事务/分布式事务.README.md",
+    "@00-.ATT.(附件)/Obsidian 帮助文档.md"
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "recentFiles": [
+    {
+      "basename": "技术学习知识库索引",
+      "path": "技术学习知识库索引.md"
+    },
+    {
+      "basename": "Kong.README",
+      "path": "@12-分布式/@12-14-分布式网关/003-Kong/Kong.README.md"
+    },
+    {
+      "basename": "Java工程师如何避免内卷 - 知乎",
+      "path": "@22-关于职业/Java工程师如何避免内卷 - 知乎.md"
+    },
+    {
+      "basename": "开源软件",
+      "path": "@06-开源软件/开源软件.md"
+    },
+    {
+      "basename": "分布式网关.README",
+      "path": "@12-分布式/@12-14-分布式网关/分布式网关.README.md"
+    },
+    {
+      "basename": "shenyu.README",
+      "path": "@12-分布式/@12-14-分布式网关/004-Shenyu(Soul)/shenyu.README.md"
+    },
+    {
+      "basename": "SpringGateway.README",
+      "path": "@12-分布式/@12-14-分布式网关/002-SpringGateway/SpringGateway.README.md"
+    },
+    {
+      "basename": "分布式事务.README",
+      "path": "@12-分布式/@12-04-分布式事务/分布式事务.README.md"
+    },
+    {
+      "basename": "Obsidian 帮助文档",
+      "path": "@00-.ATT.(附件)/Obsidian 帮助文档.md"
+    },
+    {
+      "basename": "数据结构",
+      "path": "@01-数据结构/数据结构.md"
+    },
+    {
+      "basename": "参考文献",
+      "path": "@00-参考文献/参考文献.md"
+    },
+    {
+      "basename": "知识技能图谱",
+      "path": "@00-参考文献/知识技能图谱.md"
+    },
+    {
+      "basename": "中间件",
+      "path": "@21-中间件/中间件.md"
+    },
+    {
+      "basename": "NGINX",
+      "path": "@21-中间件/@21-02-HTTP Server/NGINX.md"
+    },
+    {
+      "basename": "微服务网络拓扑图",
+      "path": "@00-.ATT.(附件)/微服务网络拓扑图.png"
+    },
+    {
+      "basename": "GitHub中文排行榜",
+      "path": "@00-参考文献/GitHub中文排行榜.md"
+    },
+    {
+      "basename": "容器",
+      "path": "@20-容器/容器.md"
+    },
+    {
+      "basename": "高可用",
+      "path": "@19-高可用/高可用.md"
+    },
+    {
+      "basename": "高并发&高性能",
+      "path": "@18-高并发&高性能/高并发&高性能.md"
+    },
+    {
+      "basename": "操作系统",
+      "path": "@17-操作系统/操作系统.md"
+    },
+    {
+      "basename": "软件理论",
+      "path": "@16-软件理论/软件理论.md"
+    },
+    {
+      "basename": "设计模式",
+      "path": "@15-设计模式/设计模式.md"
+    },
+    {
+      "basename": "DevOps",
+      "path": "@14-DevOps/DevOps.md"
+    },
+    {
+      "basename": "微服务",
+      "path": "@13-微服务/微服务.md"
+    },
+    {
+      "basename": "分布式",
+      "path": "@12-分布式/分布式.md"
+    },
+    {
+      "basename": "系统架构",
+      "path": "@11-系统架构/系统架构.md"
+    },
+    {
+      "basename": "开发工具",
+      "path": "@10-开发工具/开发工具.md"
+    },
+    {
+      "basename": "代码重构",
+      "path": "@09-代码重构/代码重构.md"
+    },
+    {
+      "basename": "代码质量",
+      "path": "@08-代码质量/代码质量.md"
+    },
+    {
+      "basename": "单元测试",
+      "path": "@07-单元测试/单元测试.md"
+    },
+    {
+      "basename": "计算机网络",
+      "path": "@05-计算机网络/计算机网络.md"
+    },
+    {
+      "basename": "常用类库",
+      "path": "@04-常用类库/常用类库.md"
+    },
+    {
+      "basename": "数据库",
+      "path": "@03-数据库/数据库.md"
+    },
+    {
+      "basename": "算法",
+      "path": "@02-算法/算法.md"
+    },
+    {
+      "basename": "Java",
+      "path": "@00-JAVA/Java.md"
+    },
+    {
+      "basename": "分布式服务监控.README",
+      "path": "@12-分布式/@12-15-分布式服务监控/分布式服务监控.README.md"
+    },
+    {
+      "basename": "ServiceMesh.README",
+      "path": "@13-微服务/@13-03-Service Mesh/ServiceMesh.README.md"
+    },
+    {
+      "basename": "TOMCAT",
+      "path": "@21-中间件/@21-01-Application Server/TOMCAT.md"
+    },
+    {
+      "basename": "版本控制.README",
+      "path": "@10-开发工具/@10-01-版本控制/版本控制.README.md"
+    },
+    {
+      "basename": "SVN",
+      "path": "@10-开发工具/@10-01-版本控制/SVN.md"
+    },
+    {
+      "basename": "Git",
+      "path": "@10-开发工具/@10-01-版本控制/Git.md"
+    },
+    {
+      "basename": "Docker.README",
+      "path": "@20-容器/@20-01-Docker/Docker.README.md"
+    },
+    {
+      "basename": "定时任务.README",
+      "path": "@12-分布式/@12-06-分布式定时任务/定时任务.README.md"
+    },
+    {
+      "basename": "分布式定时任务.README",
+      "path": "@12-分布式/@12-06-分布式定时任务/分布式定时任务.README.md"
+    },
+    {
+      "basename": "ZAB 算法",
+      "path": "@12-分布式/@12-01-一致性算法/ZAB 算法.md"
+    },
+    {
+      "basename": "Raft 算法",
+      "path": "@12-分布式/@12-01-一致性算法/Raft 算法.md"
+    },
+    {
+      "basename": "Paxos 算法",
+      "path": "@12-分布式/@12-01-一致性算法/Paxos 算法.md"
+    },
+    {
+      "basename": "一致性 Hash 算法",
+      "path": "@12-分布式/@12-01-一致性算法/一致性 Hash 算法.md"
+    },
+    {
+      "basename": "Base",
+      "path": "@12-分布式/@12-00-分布式理论/Base.md"
+    },
+    {
+      "basename": "CAP",
+      "path": "@12-分布式/@12-00-分布式理论/CAP.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}
