@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C01-自媒体/README.md",
+                "file": "A01-计算机技术/技术学习知识库索引.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C01-自媒体/README.md",
+                "file": "A01-计算机技术/技术学习知识库索引.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C01-自媒体/README.md",
+                "file": "A01-计算机技术/技术学习知识库索引.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C01-自媒体/README.md"
+                "file": "A01-计算机技术/技术学习知识库索引.md"
               }
             }
           }
@@ -163,9 +163,10 @@
   },
   "active": "25c157084d6bef6d",
   "lastOpenFiles": [
+    "README.md",
+    "C01-自媒体/README.md",
     "B01-财务会计/README.md",
     "A01-计算机技术/@22-关于职业/Java工程师如何避免内卷 - 知乎.md",
-    "A01-计算机技术/技术学习知识库索引.md",
-    "README.md"
+    "A01-计算机技术/技术学习知识库索引.md"
   ]
 }
