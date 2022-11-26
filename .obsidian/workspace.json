@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "A01-计算机技术/@22-关于职业/Java工程师如何避免内卷 - 知乎.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "d68a1626f7884635",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B01-财务会计/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25c157084d6bef6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C01-自媒体/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "C01-自媒体/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "C01-自媒体/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "C01-自媒体/README.md"
               }
             }
           }
@@ -136,6 +161,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2628ba2ef9f6407d",
-  "lastOpenFiles": []
+  "active": "25c157084d6bef6d",
+  "lastOpenFiles": [
+    "B01-财务会计/README.md",
+    "A01-计算机技术/@22-关于职业/Java工程师如何避免内卷 - 知乎.md",
+    "A01-计算机技术/技术学习知识库索引.md",
+    "README.md"
+  ]
 }
