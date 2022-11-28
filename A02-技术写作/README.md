@@ -1,15 +1,34 @@
-中文技术文档的写作规范。
+---
+aliases: [写作,规范,计划,创意,备忘]
+---
+#规范 #计划 #写作 #创意 #备忘
 
-## 目录
+---
+中文技术文档的写作规范
 
-1. [标题](docs/title.md)
-1. [文本](docs/text.md)
-1. [段落](docs/paragraph.md)
-1. [数值](docs/number.md)
-1. [标点符号](docs/marks.md)
-1. [文档体系](docs/structure.md)
-1. [参考链接](docs/reference.md)
+- . [标题](title.md)
+- . [文本](text.md)
+- . [段落](paragraph.md)
+- . [数值](number.md)
+- . [标点符号](marks.md)
+- . [文档体系](structure.md)
+- . [参考链接](reference.md)
 
-## License
+---
 
-公共领域（public domain）
+
+> 文章标题构思
+
+```md
+
+- [?] 难道你还不懂 springMVC 全局异常处理吗？
+- [ ] 
+
+```
+
+> 发布管理
+
+| 序号 | 平台 | 分类 | 是否专栏 | 文章标题 | 链接地址 |
+| ---- | ---- | ---- | -------- | -------- | -------- |
+| 01   |      |      |          |          |          |
+| 02     |      |      |          |          |          |
