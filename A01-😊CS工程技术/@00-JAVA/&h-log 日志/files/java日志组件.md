@@ -1,6 +1,23 @@
 [TOC]
 ## 一、常用日志组件介绍
 
+>日志组件分类
+
+ <u>***解决方案***</u>
+
+- Log4j、Log4j 2.x
+- logback
+- JUL（Java Utils Logging）
+
+***<u>门面接口</u>***
+
+- Apache Commons-Logging
+- SLF4J
+
+---
+
+
+
 1、**Log4j**
 
 **Apache Log4j**是一个基于Java的日志记录工具。它是由Ceki Gülcü首创的，现在则是Apache软件基金会的一个项目。 Log4j是几种Java日志框架之一。
@@ -137,7 +154,18 @@ private static void reportActualBinding(Set<URL> binderPathSet) {
 
 不同的StaticLoggerBinder其getLoggerFactory实现不同，拿到ILoggerFactory之后调用一下getLogger即拿到了具体的Logger，可以使用Logger进行日志输出。
 
-[^脚注：java 日志组件介绍]: 
+
+
+##  四、参考资料
+
+[架构师必备，带你弄清混乱的JAVA日志体系！](https://www.javazhiyin.com/27585.html)  
+[10分钟搞定–混乱的 Java 日志体系](https://www.jianshu.com/p/39ced06944a2)  
+[Java主流日志工具介绍和使用](http://hbyou.me/2016/06/18/Java%E4%B8%BB%E6%B5%81%E6%97%A5%E5%BF%97%E5%B7%A5%E5%85%B7%E4%BB%8B%E7%BB%8D%E5%92%8C%E4%BD%BF%E7%94%A8/)  
+[https://www.slf4j.org/](https://www.slf4j.org/)
+
+
+
+[^脚注：java 日志组件介绍]:
 
 
 
