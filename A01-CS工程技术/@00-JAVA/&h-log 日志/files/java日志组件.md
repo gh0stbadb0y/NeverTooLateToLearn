@@ -50,7 +50,7 @@ JUL全称Java util Logger是java原生的日志框架，使用时不需要另外
 
 ## 三、slf4j是什么，主要作用是什么？
 
-**slf4j只是一个日志标准，并不是日志系统的具体实现。**
+**slf4j只是一个😂日志标准，并不是日志系统的具体实现。**
 
 slf4j是门面模式的典型应用。所谓的门面模式，其核心为**外部与一个子系统的通信必须通过一个统一的外观对象进行，使得子系统更易于使用**。用一张图来表示门面模式的结构为：
 
@@ -136,3 +136,8 @@ private static void reportActualBinding(Set<URL> binderPathSet) {
 ```
 
 不同的StaticLoggerBinder其getLoggerFactory实现不同，拿到ILoggerFactory之后调用一下getLogger即拿到了具体的Logger，可以使用Logger进行日志输出。
+
+[^脚注：java 日志组件介绍]: 
+
+
+
