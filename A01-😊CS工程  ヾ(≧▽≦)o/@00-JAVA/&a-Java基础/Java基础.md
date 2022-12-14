@@ -1,9 +1,13 @@
+[TOC]
+
+---
+
 
 > Java 基础
 
 ## Java核心
 
-> **Java核心 --> 基础篇（包括基础语法、面向对象、集合框架、异常处理、Java IO 等）、Java 并发篇和 Java 虚拟机篇。
+> **Java核心** --> 基础篇（包括基础语法、面向对象、集合框架、异常处理、Java IO 等）、Java 并发篇和 Java 虚拟机篇。
 
 ## Java概述
 
@@ -203,6 +207,4 @@
 
 > Java 高级
 
-1、
-https://github.com/doocs/advanced-java 
-互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
+1、  [互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识](https://github.com/doocs/advanced-java)
